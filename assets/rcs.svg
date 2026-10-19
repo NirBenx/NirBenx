@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="170" viewBox="0 0 450 170"><rect x="1" y="1" width="448" height="168" rx="14" fill="#0e192b" stroke="#263a52"/>
+    <rect x="22" y="25" width="3" height="22" rx="1" fill="#f2bd76"/>
+    <text x="35" y="40" fill="#f2bd76" font-family="monospace" font-size="11" letter-spacing="1">COMING TO GITHUB</text>
+    <g fill="none" stroke="#f2bd76" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M377 39l-14 16 14 16 M402 39l14 16-14 16 M395 34l-10 43"/></g>
+    <text x="24" y="90" fill="#edf5ff" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">RCS</text>
+    <text x="24" y="122" fill="#a9bcd4" font-family="Segoe UI,Arial,sans-serif" font-size="14">Repository upload forthcoming</text>
+    <text x="24" y="149" fill="#69839f" font-family="monospace" font-size="10">FORTHCOMING</text></svg>

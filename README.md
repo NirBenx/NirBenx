@@ -3,15 +3,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NirBenx/cyber-implement-labs">Cybersecurity portfolio</a> ·
-  <a href="https://www.linkedin.com/in/nir-ben-ishay-511672234/">LinkedIn</a>
+  <a href="https://github.com/NirBenx/cyber-implement-labs"><img src="assets/security-link.svg" alt="Explore the cyber lab" width="260" /></a>
+  <a href="https://www.linkedin.com/in/nir-ben-ishay-511672234/"><img src="assets/linkedin-link.svg" alt="Connect on LinkedIn" width="260" /></a>
 </p>
 
 ## Hi, I'm Nir
 
 I build applications, explore IT infrastructure, and document hands-on cybersecurity work. My recent projects span security monitoring, appointment scheduling, IT self-service, and Unity game development.
 
-## Featured: Cybersecurity Implementation & Detection Engineering Lab
+<img src="assets/signal.gif" alt="" width="100%" />
+
+## 01 / Security & infrastructure
+
+### Cybersecurity Implementation & Detection Engineering Lab
 
 [**Explore the public lab →**](https://github.com/NirBenx/cyber-implement-labs)
 
@@ -24,7 +28,20 @@ An enterprise-style home lab documenting network segmentation, security monitori
 
 [Architecture](https://github.com/NirBenx/cyber-implement-labs/tree/main/architecture) · [Detection catalog](https://github.com/NirBenx/cyber-implement-labs/blob/main/docs/DETECTION_CATALOG.md)
 
-## Recent projects
+<img src="assets/signal.gif" alt="" width="100%" />
+
+## 02 / Applications & game development
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/kavua.svg" alt="Kavua: scheduling for service businesses. Private repository." width="100%" /></td>
+    <td width="50%"><img src="assets/it-center.svg" alt="GB-IT-Center: IT self-service using React, TypeScript and Electron. Private repository." width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/beinhamilim.svg" alt="BeinHaMilim: Unity game development. Private repository." width="100%" /></td>
+    <td width="50%"><img src="assets/rcs.svg" alt="RCS: repository upload forthcoming." width="100%" /></td>
+  </tr>
+</table>
 
 | Project | What I'm building |
 | --- | --- |
@@ -35,7 +52,9 @@ An enterprise-style home lab documenting network segmentation, security monitori
 
 Kavua, GB-IT-Center, and BeinHaMilim are currently in private repositories.
 
-## Project toolkit
+<img src="assets/signal.gif" alt="" width="100%" />
+
+## 03 / Project toolkit
 
 | Area | Technologies used in my projects |
 | --- | --- |
@@ -43,6 +62,6 @@ Kavua, GB-IT-Center, and BeinHaMilim are currently in private repositories.
 | Applications | React · TypeScript · Next.js · NestJS · PostgreSQL · Electron |
 | Games & version control | Unity · Git · GitHub |
 
-## Connect
+## Let’s connect
 
 [Find me on LinkedIn](https://www.linkedin.com/in/nir-ben-ishay-511672234/) or explore my [public repositories](https://github.com/NirBenx?tab=repositories).
